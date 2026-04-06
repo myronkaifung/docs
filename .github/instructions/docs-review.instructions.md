@@ -1,5 +1,5 @@
 ---
-applyTo: "pages/docs/**/*.mdx"
+applyTo: "pages/docs/**/*.mdx, pages/docs/**/*.md"
 ---
 
 
